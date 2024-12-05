@@ -30,6 +30,10 @@ Generate a PDF report of your backtest results by clicking on "Save Report".
 
 
 
+![Screenshot 2024-12-05 093936](https://github.com/user-attachments/assets/7c8a96ff-b44a-4597-80b3-91907330ed72)
+![Screenshot 2024-12-05 094000](https://github.com/user-attachments/assets/c55e49b3-753f-4fc2-9f8e-6f3cc1e51bf7)
+![Screenshot 2024-12-05 094008](https://github.com/user-attachments/assets/f5fde196-f36e-42aa-bb43-4ee9c340eee4)
+![Screenshot 2024-12-05 093925](https://github.com/user-attachments/assets/727efa28-683d-4815-8623-31c8fa18a654)
 
 
 
